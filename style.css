@@ -1,0 +1,21 @@
+body{
+    font-family: "Playfair Display", system-ui;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: rgb(22, 197, 216);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding: 2%;
+}
+.half-width img{
+    width: 100%;
+}
