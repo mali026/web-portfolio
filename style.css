@@ -22,7 +22,8 @@ h1{
     width: 100%;
 }
 .top-banner{
-    background-image: url("c:/projects/portfolio resource/web portfolio/images/top-banner.png");
+    background-image: url("https://raw.githubusercontent.com/mali026/web-portfolio/main/images/top-banner.png
+    ");
     background-repeat: no-repeat;
     
 }
@@ -42,7 +43,8 @@ section{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .dream-area{
-    background-image: url("C:/projects/portfolio resource/web portfolio/images/dream-bg.png");
+    background-image: url("https://raw.githubusercontent.com/mali026/web-portfolio/main/images/dream-bg.png
+    ");
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -53,7 +55,8 @@ section{
     background-color: aliceblue;
 }
 .experience-area{
-    background-image: url("C:/projects/portfolio resource/web portfolio/images/exp-bg.png");
+    background-image: url("https://raw.githubusercontent.com/mali026/web-portfolio/main/images/exp-bg.png
+    ");
     background-repeat: no-repeat;
     background-position: left;
     
