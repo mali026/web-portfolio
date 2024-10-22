@@ -5,7 +5,7 @@ body{
   font-weight: 400;
   font-style: normal;
   
-}
+} 
 h1{
     font-size: 50px;
 }
@@ -22,7 +22,7 @@ h1{
     width: 100%;
 }
 .top-banner{
-    background-image: url("c:/projects/portfolio resource/web portfolio/images/top-banner.png");
+    background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
     
 }
@@ -42,7 +42,7 @@ section{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .dream-area{
-    background-image: url("C:/projects/portfolio resource/web portfolio/images/dream-bg.png");
+    background-image: url("images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -53,7 +53,7 @@ section{
     background-color: aliceblue;
 }
 .experience-area{
-    background-image: url("C:/projects/portfolio resource/web portfolio/images/exp-bg.png");
+    background-image: url("images/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
     
